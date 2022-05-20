@@ -13,5 +13,5 @@ Imágenes para las campañas
 
 ![imagen 1](img/Doctora1.jpg)
 
-![imagen 2](Imagenes/procsub.png)
+![imagen 2](img/Doctora2.jpg)
 
